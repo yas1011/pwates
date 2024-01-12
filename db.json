@@ -1,0 +1,24 @@
+{
+  "products": [
+{"id":1,"name":"Estevan","category":"Crimson"},
+{"id":2,"name":"Geordie","category":"Indigo"},
+{"id":3,"name":"Jase","category":"Green"},
+{"id":4,"name":"Brendon","category":"Turquoise"},
+{"id":5,"name":"Roderigo","category":"Violet"},
+{"id":6,"name":"Enoch","category":"Aquamarine"},
+{"id":7,"name":"Tomkin","category":"Indigo"},
+{"id":8,"name":"Barty","category":"Blue"},
+{"id":9,"name":"Merv","category":"Blue"},
+{"id":10,"name":"Massimiliano","category":"Maroon"},
+{"id":11,"name":"Mendie","category":"Pink"},
+{"id":12,"name":"Baron","category":"Red"},
+{"id":13,"name":"Boone","category":"Fuscia"},
+{"id":14,"name":"Shadow","category":"Purple"},
+{"id":15,"name":"Kele","category":"Pink"},
+{"id":16,"name":"Garvin","category":"Maroon"},
+{"id":17,"name":"Lewiss","category":"Aquamarine"},
+{"id":18,"name":"Marco","category":"Crimson"},
+{"id":19,"name":"Gavin","category":"Teal"},
+{"id":20,"name":"Pooh","category":"Orange"}
+]
+}
